@@ -108,7 +108,7 @@ Config formats drift. Open an issue with your client version and the exact error
 
 ## Tested with
 
-Generated configs are tested against **[Haotogen](https://haotogen.com/)** — an
+Generated configs are tested against **[haotogen](https://haotogen.com/)** — an
 OpenAI-compatible gateway. Any compatible endpoint works equally well.
 
 ---
