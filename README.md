@@ -108,10 +108,8 @@ Config formats drift. Open an issue with your client version and the exact error
 
 ## Tested with
 
-<!-- TODO: replace with your own endpoint before publishing -->
-
-Generated configs are tested against **[YOUR SERVICE NAME](https://your-endpoint.example)** —
-an OpenAI-compatible gateway. Any compatible endpoint works equally well.
+Generated configs are tested against **[Haotogen](https://haotogen.com/)** — an
+OpenAI-compatible gateway. Any compatible endpoint works equally well.
 
 ---
 
