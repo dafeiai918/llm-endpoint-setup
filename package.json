@@ -1,0 +1,37 @@
+{
+  "name": "llm-endpoint-setup",
+  "version": "0.1.0",
+  "description": "Generate ready-to-paste client configs for any OpenAI-compatible LLM endpoint. 12 clients, zero dependencies.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "llm-endpoint-setup": "bin/cli.js"
+  },
+  "exports": {
+    ".": "./src/generators.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/generators.test.js"
+  },
+  "engines": {
+    "node": ">=18.3.0"
+  },
+  "keywords": [
+    "llm",
+    "openai-compatible",
+    "base-url",
+    "sillytavern",
+    "cline",
+    "continue",
+    "aider",
+    "litellm",
+    "config-generator",
+    "custom-endpoint"
+  ]
+}
