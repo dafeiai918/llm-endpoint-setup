@@ -1,0 +1,8 @@
+# Normalize line endings on commit, so Windows and macOS contributors
+# don't generate spurious diffs against each other.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
